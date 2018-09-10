@@ -22,7 +22,7 @@
     "lodash.startcase": "^4.4.0",
     "lodash.uniqueid": "^4.0.1",
     "mobx": "^5.1.0",
-    "mobx-react": "^5.2.6",
+    "mobx-react": "5.2.6",
     "phaser": "^3.12.0",
     "react": "latest",
     "react-color": "^2.14.1",
